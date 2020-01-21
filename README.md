@@ -1,3 +1,3 @@
 # [inoejj.github.io](https://inoejj.github.io)
 
-Click [here](https://inoejj.github.io) to see my portfolio
+Hi, I am Jia Jie Choong, please click [here](https://inoejj.github.io) to check out my portfolio.
