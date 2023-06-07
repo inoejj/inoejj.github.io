@@ -2,4 +2,5 @@
 
 Jia Jie Choong's student portfolio
 
-[Click here](https://inoejj.github.io/)
+
+<a href="https://inoejj.github.io/" target="_blank"> Click Here to visit my portfolio </a>
